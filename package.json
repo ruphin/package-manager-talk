@@ -1,0 +1,17 @@
+{
+  "name": "package-manger-talk",
+  "private": true,
+  "description": "Slide deck for package manager talk",
+  "repository": "git@github.com:ruphin/package-manager-talk.git",
+  "author": "Goffert van Gool",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^6.2.2"
+  },
+  "dependencies": {
+    "slidem": "^2.0.2"
+  },
+  "scripts": {
+    "dev": "vite --config vite.config.js"
+  }
+}
