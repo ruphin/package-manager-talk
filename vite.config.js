@@ -1,4 +1,7 @@
 export default {
   root: ".",
-  open: true,
+  server: {
+    open: "index.html",
+    port: 5000,
+  },
 };
